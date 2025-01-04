@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m [Arslan Atakhanov], a passionate developer!
+I’m Arslan Atakhanov, a passionate developer!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arslan01000&show_icons=true&locale=en&theme=radical)
 
